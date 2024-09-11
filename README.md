@@ -1,6 +1,6 @@
 # SDN host InterFace EXTension (IFEXT) Kit 
 
-This tool allows an SDDN switch to artificially extend the number of physical interfaces linked to a network host.
+This tool allows an SDN switch to artificially extend the number of physical interfaces linked to a network host.
 
 
 # Why
